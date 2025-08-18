@@ -1,1 +1,28 @@
-body{font-family:sans-serif;background:#0b1a2b;color:#e7eef8}
+body {
+  font-family: sans-serif;
+  background: #0b1a2b;
+  color: #e7eef8;
+  line-height: 1.6;
+  margin: 0;
+  padding: 20px;
+}
+
+a {
+  color: #1fbf6a;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+}
+
+.card {
+  background: #10263f;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
