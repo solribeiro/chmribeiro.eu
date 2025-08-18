@@ -26,3 +26,15 @@ h1, h2, h3 {
   border-radius: 10px;
   margin-bottom: 20px;
 }
+main {
+  background-color: #10263f;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.apresentacao p {
+  color: #e7eef8;
+  font-size: 1.1em;
+  line-height: 1.6;
+}
